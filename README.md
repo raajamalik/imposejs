@@ -5,11 +5,11 @@ With impose.js, I want to make sure that the testing must be fun and imposed on 
 
 Important concepts in a testing framework are:
 
-Data setup
-Assertions - use chai.js
-Mocks - use sinon.js
-Dependencies
-Use cases
+- Data setup
+- Assertions - use chai.js
+- Mocks - use sinon.js
+- Dependencies
+- Use cases
 
 The idea of this framework is to reuse the test data and store it for future invocations. The storing of the data will serve as two purpose:
 	1. It will make future invocations faster.
